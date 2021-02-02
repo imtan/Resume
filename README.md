@@ -4,7 +4,7 @@
 
 | | |
 |---|-----|
-|Name|黒澤　 (Kurosawa Shun)|
+|Name|黒澤　 舜(Kurosawa Shun)|
 
 ## スキル
 ### 言語
